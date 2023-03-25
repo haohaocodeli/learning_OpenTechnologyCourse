@@ -1,0 +1,2 @@
+# learning_OpenTechnologyCourse
+OpenTechnologyCourse_Note
